@@ -1,0 +1,7 @@
+controlador\Apires.class
+dao\Conexion.class
+controlador\PokemonC.class
+service\ObtenerPokemon.class
+modelo\Habilidades.class
+modelo\Pokemon.class
+dao\PokemonImpl.class
